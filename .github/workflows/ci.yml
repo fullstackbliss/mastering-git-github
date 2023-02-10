@@ -9,8 +9,7 @@ on:
   push:
     branches: [ main ]
  
-  job:
-    build:
+  build:
 
     runs-on: ubuntu-latest
  
